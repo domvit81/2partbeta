@@ -219,7 +219,7 @@ library(ggplot2)
 library(betareg)
 options(scipen=999)
 
-dati_orig <- read.csv("dataset_2partmodel.csv")
+dati_orig <- read.csv("ebs_data.csv")
 
 # Data set description
 N <- nrow(dati_orig)
