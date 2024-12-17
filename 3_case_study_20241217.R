@@ -2,8 +2,8 @@
 rm(list = ls())
 
 # --------------------------------------------
-# R Code to reproduce table and figures of the manuscript entitled
-# The two-part Beta regression model with mismeasured dependent variable to analyse
+# R Code to reproduce tables and figures of the manuscript entitled
+# A two-part beta regression model with mismeasured dependent variable to analyse
 # quasi-formal employment in Europe
 # by Arezzo MF, Guagnano G, Vitale D
 # --------------------------------------------
