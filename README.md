@@ -13,7 +13,7 @@
 
  * 3_case_study_20241217.R contains the R code to analyze the Eurobarometer Survey No. 498 dataset (ebs_data.csv)
 
-For interested users, download and save the above mentioned files in the same folder.
+For interested users, download and save the above mentioned files in the same folder
 
 To perform the simulations first run 1_mcsim_2024103.R and then 2_mcsim_analysis_20241203.R
 
