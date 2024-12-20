@@ -1,6 +1,7 @@
 
  R scripts to reproduce tables and figures of the manuscript entitled
- A two-part beta regression model with mismeasured dependent variable to analyse quasi-formal employment in Europe
+ 
+ *A two-part beta regression model with mismeasured dependent variable to analyse quasi-formal employment in Europe*
  by Arezzo MF, Guagnano G, Vitale D (under review)
 
  * 0_twopart_fn_20241203.R contains the main functions used in simulation study
