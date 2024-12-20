@@ -1,9 +1,3 @@
-# --------------------------------------------
-# A two-part measurement error model to
-# estimate participation in undeclared work
-# and related earnings.
-# --------------------------------------------
-
 
 # Data generating function
 
@@ -57,12 +51,7 @@ data.gen <- function(pars, n){
 
 
 #*****************************************************************
-# Likelihood computation
-
-#-------------------------------------------
-#     Measurement error correction
-#-------------------------------------------
-
+# Likelihood functions
 
 llik.part1 <- function(pars.p1, data){
 	yobs <- data$yobs
